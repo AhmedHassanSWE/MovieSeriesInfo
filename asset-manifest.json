@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/movieseriesinfo/static/css/main.e431d2ff.chunk.css",
-    "main.js": "/movieseriesinfo/static/js/main.fa8ff6cb.chunk.js",
-    "main.js.map": "/movieseriesinfo/static/js/main.fa8ff6cb.chunk.js.map",
-    "runtime-main.js": "/movieseriesinfo/static/js/runtime-main.1d96673b.js",
-    "runtime-main.js.map": "/movieseriesinfo/static/js/runtime-main.1d96673b.js.map",
-    "static/js/2.96df83a4.chunk.js": "/movieseriesinfo/static/js/2.96df83a4.chunk.js",
-    "static/js/2.96df83a4.chunk.js.map": "/movieseriesinfo/static/js/2.96df83a4.chunk.js.map",
-    "static/js/3.57a772ea.chunk.js": "/movieseriesinfo/static/js/3.57a772ea.chunk.js",
-    "static/js/3.57a772ea.chunk.js.map": "/movieseriesinfo/static/js/3.57a772ea.chunk.js.map",
-    "index.html": "/movieseriesinfo/index.html",
-    "static/css/main.e431d2ff.chunk.css.map": "/movieseriesinfo/static/css/main.e431d2ff.chunk.css.map",
-    "static/js/2.96df83a4.chunk.js.LICENSE.txt": "/movieseriesinfo/static/js/2.96df83a4.chunk.js.LICENSE.txt",
-    "static/media/spinner.ab6cafe8.gif": "/movieseriesinfo/static/media/spinner.ab6cafe8.gif"
+    "main.css": "/MovieSeriesInfo/static/css/main.e431d2ff.chunk.css",
+    "main.js": "/MovieSeriesInfo/static/js/main.fa8ff6cb.chunk.js",
+    "main.js.map": "/MovieSeriesInfo/static/js/main.fa8ff6cb.chunk.js.map",
+    "runtime-main.js": "/MovieSeriesInfo/static/js/runtime-main.47cb1051.js",
+    "runtime-main.js.map": "/MovieSeriesInfo/static/js/runtime-main.47cb1051.js.map",
+    "static/js/2.96df83a4.chunk.js": "/MovieSeriesInfo/static/js/2.96df83a4.chunk.js",
+    "static/js/2.96df83a4.chunk.js.map": "/MovieSeriesInfo/static/js/2.96df83a4.chunk.js.map",
+    "static/js/3.57a772ea.chunk.js": "/MovieSeriesInfo/static/js/3.57a772ea.chunk.js",
+    "static/js/3.57a772ea.chunk.js.map": "/MovieSeriesInfo/static/js/3.57a772ea.chunk.js.map",
+    "index.html": "/MovieSeriesInfo/index.html",
+    "static/css/main.e431d2ff.chunk.css.map": "/MovieSeriesInfo/static/css/main.e431d2ff.chunk.css.map",
+    "static/js/2.96df83a4.chunk.js.LICENSE.txt": "/MovieSeriesInfo/static/js/2.96df83a4.chunk.js.LICENSE.txt",
+    "static/media/spinner.ab6cafe8.gif": "/MovieSeriesInfo/static/media/spinner.ab6cafe8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d96673b.js",
+    "static/js/runtime-main.47cb1051.js",
     "static/js/2.96df83a4.chunk.js",
     "static/css/main.e431d2ff.chunk.css",
     "static/js/main.fa8ff6cb.chunk.js"
